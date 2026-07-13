@@ -14,4 +14,4 @@ student who likes making things whenever an idea sounds fun.
 
 ---
 
-thanks for visiting :)
+thanks for visiting!
